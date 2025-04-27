@@ -34,7 +34,7 @@ I'm<strong> IMAD EL KHELYFY</strong>, a data scientist Student  at <a href="http
   "age": 21,
   "studies": "data science and AI",
   "profile": "Data Enthusiast",
-  "interests": ["Problem Solving","Gym","Design"]
+  "interests": ["Problem Solving","Design","AI"]
   "speak": ["English","Arabic","French"]
   "contact": {
     "email": "imadelkhelyfy@gmail.com",
@@ -47,7 +47,7 @@ I'm<strong> IMAD EL KHELYFY</strong>, a data scientist Student  at <a href="http
   
  
   
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imadelkhelyfy" alt="imadelkhelyfy" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imadkhkhalifi" alt="imadelkhelyfy" /></a> </p>
 
 
 
