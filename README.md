@@ -80,9 +80,9 @@ I'm<strong> IMAD EL KHELYFY</strong>, a data scientist Student  at <a href="http
   **Soft Skills** <img height="30" width="30" src="https://img.icons8.com/?size=30&id=SakkXeHgINB9&format=png&color=000000" /><br>
   <kbd>Problem-solving</kbd> <kbd>Critical thinking</kbd> <kbd>Team collaboration</kbd> <kbd>Communication</kbd> <kbd>Time management</kbd> <kbd>Leadership</kbd>
   <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imadelkhelyfy&show_icons=true&locale=en&layout=compact" alt="imadelkhelyfy" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imadkhkhalifi&show_icons=true&locale=en&layout=compact" alt="imadelkhelyfy" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imadelkhelyfy&show_icons=true&locale=en" alt="imadelkhelyfy" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imadkhkhalif&show_icons=true&locale=en" alt="imadelkhelyfy" /></p>
   
   </h1>
 
